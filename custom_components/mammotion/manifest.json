@@ -29,6 +29,6 @@
   ],
   "iot_class": "local_push",
   "requirements": [
-    "PyMammotion@git+https://github.com/tgarrety/PyMammotion.git@main"
+    "pymammotion==0.5.2"
   ]
 }
